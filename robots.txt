@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-hy5vjh.salamcuan.shop/sitemap.xml
